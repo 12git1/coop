@@ -1,2 +1,6 @@
 first 
+<<<<<<< HEAD
 second(Ivan)
+=======
+second 
+>>>>>>> 79eb9c1bb1a1cce27e66aba3a6ad5012b0052740
