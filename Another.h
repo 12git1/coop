@@ -1,0 +1,1 @@
+void ZdarovaGit(int ha, float ha, char ha);
